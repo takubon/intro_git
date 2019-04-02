@@ -7,4 +7,4 @@ git commit コマンド
 git rm コマンド
 git status コマンド
 git diff コマンド
-完了
+完了しました。
