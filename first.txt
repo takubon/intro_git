@@ -6,3 +6,4 @@ git add コマンド
 git commit コマンド
 git rm コマンド
 git status コマンド
+git diff コマンド
