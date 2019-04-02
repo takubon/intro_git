@@ -4,3 +4,4 @@
 今回学ぶ内容
 git add コマンド
 git commit コマンド
+git rm コマンド
